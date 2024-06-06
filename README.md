@@ -1,5 +1,4 @@
 # Minangkabau-Website
-# Minangkabau
 
 Menyelami keindahan sejarah, budaya, kuliner, dan destinasi wisata Minangkabau.
 
